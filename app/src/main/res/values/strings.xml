@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TableView</string>
+    <string name="button_text">Change\nPlanet</string>
+    <string name="imageView_contentDescription">Planet</string>
+</resources>
